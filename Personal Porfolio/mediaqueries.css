@@ -170,9 +170,12 @@
       margin-top: 40px; */
       display: none;
     }
+    #about h3,#about h1{
+      display: none;
+    }
     #about .row .about-col-2{
       padding: 2px;
-      margin-top: 150px;
+      margin-top: 450px;
     }
     #about .row .about-col-2 .about-para{
       color: rgb(94, 94, 94);
@@ -276,7 +279,7 @@
     margin-bottom: 20px;
     word-spacing: 5px;
 }
-footer{
-  width: 100%;
+.footer-bottom{
+  width: 420px;
 }
   }
